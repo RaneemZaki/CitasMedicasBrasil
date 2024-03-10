@@ -1,0 +1,1 @@
+Este base de datos recopila información de 100 mil citas médicas en Brasil y se centra en la cuestión de si los pacientes se presentan o no para su cita previa. Un numero de las características del paciente son incluidos en cada fila.
